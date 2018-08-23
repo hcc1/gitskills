@@ -11,4 +11,8 @@ dev branch commit
 >>>>>>> dev
 
 amwdny@126.com  commint
+<<<<<<< HEAD
 i am gohome 
+=======
+this is 9-16 dev add content
+>>>>>>> dev
